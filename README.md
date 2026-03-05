@@ -3,4 +3,4 @@ password generator in csharp
 
 # licensing
 
-do whatever you want i dont care
+i used a bit of AI so i dont deserve licensing lol
